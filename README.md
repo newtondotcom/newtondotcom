@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Newtondotcom<br></h1>
+<h1 align="center">Hey, I'm newton<br></h1>
 
 <p align="center">
   <img width="30%" alt="My Logo" src="https://avatars.githubusercontent.com/u/102476446?s=400&u=1a9bf0ea49d11ba4c5cc74bff0a5ad7d49bd7012&v=4">
