@@ -18,9 +18,6 @@
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-23272A?style=flat&logo=matlab">
   <img src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
   <img src="https://img.shields.io/badge/-Ada-23272A?style=flat&logo=ada">
-
-
-
 </p>
 
 <h3 align="center">Frameworks & Technologies I utilize<br></h3>
