@@ -58,5 +58,5 @@
 --->
 
 <p align="center">
-      <img width="60%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtondotcom&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
+<img width="60%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtondotcom&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
 </p>
