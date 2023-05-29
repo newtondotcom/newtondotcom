@@ -61,7 +61,31 @@ A technology enthusiast and entrepreneur
   <b>•</b> Develop multiple versatile & intricate open-source applications.
 </p><br>
 --->
-
+<!-- 
 <p align="center">
 <img width="60%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtondotcom&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
+</p>
+--->
+  
+<details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtondotcom&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtondotcom&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newtondotcom&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtondotcom&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=newtondotcom&color=blue&style=flat)" />
+  </a>
 </p>
