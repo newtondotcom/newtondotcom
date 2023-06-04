@@ -85,7 +85,7 @@ A technology enthusiast and entrepreneur
 </details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/newtondotcom">
     <img src="https://komarev.com/ghpvc/?username=newtondotcom&color=blue&style=flat)" />
   </a>
 </p>
