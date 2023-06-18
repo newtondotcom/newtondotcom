@@ -29,11 +29,13 @@ A technology enthusiast and entrepreneur
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
+  <img alt="Svelet" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-23272A?style=flat&logo=flask">
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
+  <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-23272A?style=flat&logo=apple">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">
@@ -69,23 +71,20 @@ A technology enthusiast and entrepreneur
   
 <details>
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/newtondotcom">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtondotcom&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/newtondotcom">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtondotcom&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/newtondotcom">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=newtondotcom&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtondotcom&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/newtondotcom">
-    <img src="https://komarev.com/ghpvc/?username=newtondotcom&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=newtondotcom&color=blue&style=flat" />
   </a>
 </p>
