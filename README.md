@@ -16,6 +16,7 @@ A technology enthusiast and entrepreneur
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23272A?style=flat&logo=javascript">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-23272A?style=flat&logo=typescript">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-23272A?style=flat&logo=postgresql">
   <img alt="C" src="https://img.shields.io/badge/-C-23272A?style=flat&logo=c">
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-23272A?style=flat&logo=latex">
