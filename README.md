@@ -30,7 +30,8 @@ A technology enthusiast and entrepreneur
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
-  <img alt="Svelet" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
+  <img alt="Svele" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-23272A?style=flat&logo=flask">
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
