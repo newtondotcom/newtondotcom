@@ -30,11 +30,13 @@ A technology enthusiast and entrepreneur
 
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
-  <img alt="Svele" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
-  <img alt="Svele" src="https://img.shields.io/badge/-React-23272A?style=flat&logo=react">
+  <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
+  <img alt="NuxtJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=nuxt.js">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte.js-23272A?style=flat&logo=svelte">
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
-  <img alt="Svele" src="https://img.shields.io/badge/-ReactNative-23272A?style=flat&logo=react">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-23272A?style=flat&logo=tailwindcss">
+  <img alt="React" src="https://img.shields.io/badge/-React.js-23272A?style=flat&logo=react">
+  <img alt="React Native" src="https://img.shields.io/badge/-React Native-23272A?style=flat&logo=react">
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-23272A?style=flat&logo=flask">
   <img alt="Django" src="https://img.shields.io/badge/-Django-23272A?style=flat&logo=django">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-23272A?style=flat&logo=windows">
@@ -54,10 +56,15 @@ A technology enthusiast and entrepreneur
   
 </p><br>
 
-<h3 align="center">Languages I'm currently learning<br></h3>
+<h3 align="center">What am I doing right now ?<br></h3>
 
 <p align="center">
-  <b>Mainly more JS, CSS ... 
+  <b>I am trying to make my **SaaS** project become alive. Don't hesitate to take a look : 
+  
+  - <a href="https://github.com/newtondotcom/yogocap-nuxt">here</a> you can find its front-end
+  - <a href="https://github.com/newtondotcom/yogocap-back">here</a> you can find its back-end
+
+  This **SaaS** can automatically subtitle videos for social medias using differents AI models and algorithms. 
 </p><br>
 
 <!-- 
