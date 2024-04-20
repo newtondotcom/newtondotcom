@@ -59,12 +59,12 @@ A technology enthusiast and entrepreneur
 <h3 align="center">What am I doing right now ?<br></h3>
 
 <p align="center">
-  <b>I am trying to make my **SaaS** project become alive. Don't hesitate to take a look : 
+  I am trying to make my <b>SaaS</b> project become alive. Don't hesitate to take a look at it : 
   
   - <a href="https://github.com/newtondotcom/yogocap-nuxt">here</a> you can find its front-end
   - <a href="https://github.com/newtondotcom/yogocap-back">here</a> you can find its back-end
 
-  This **SaaS** can automatically subtitle videos for social medias using differents AI models and algorithms. 
+  This **SaaS** will automatically subtitle videos for social medias using differents AI models and algorithms. 
 </p><br>
 
 <!-- 
