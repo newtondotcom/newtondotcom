@@ -31,7 +31,7 @@ A technology enthusiast and entrepreneur
 <p align="center">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
   <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
-  <img alt="NuxtJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=nuxt.js">
+  <img alt="NuxtJs" src="https://img.shields.io/badge/-Nuxt.js-23272A?style=flat&logo=nuxt.js">
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte.js-23272A?style=flat&logo=svelte">
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-23272A?style=flat&logo=tailwindcss">
