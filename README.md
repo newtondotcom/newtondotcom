@@ -59,8 +59,9 @@ A technology enthusiast and entrepreneur
 <h3 align="center">What am I doing right now ?<br></h3>
 
 <p align="center">
-  I am trying to make my <b>SaaS</b> project become alive. Don't hesitate to take a look at it : 
+  I am trying to make my <b>SaaS</b> project (called <u>Yogocap</u>) become alive. Don't hesitate to take a look at it : 
   
+  - <a href="https://github.com/newtondotcom/yogocap-landing">here</a> you can find its landing page
   - <a href="https://github.com/newtondotcom/yogocap-nuxt">here</a> you can find its front-end
   - <a href="https://github.com/newtondotcom/yogocap-back">here</a> you can find its back-end
 
