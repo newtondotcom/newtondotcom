@@ -90,6 +90,13 @@ Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This 
     <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
   </picture>
 </a>
+<a href="https://github.com/newtondotcom/velos-toulouse">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
+  </picture>
+</a>
+
 
 <!-- 
 <h3 align="center">Projects for 2021<br></h3>
