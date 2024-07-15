@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Robin Augereau 🧃 <br></h1>
+# Hey, I'm Robin Augereau 🧃
 
-<h2> aka newton, 
+> aka newton, 
 a technology enthusiast and entrepreneur</h2>
 
-<h3 align="center">Languages I know<br></h3>
+## Languages I know
 
-<p align="center">
+<p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-23272A?style=flat&logo=python">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-23272A?style=flat&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-23272A?style=flat&logo=css3">
@@ -20,12 +20,13 @@ a technology enthusiast and entrepreneur</h2>
   <img src="https://img.shields.io/badge/-Ada-23272A?style=flat&logo=ada">
 </p>
 
-<h3 align="center">Frameworks & Technologies I utilize<br></h3>
+## Frameworks & Technologies I utilize
 
-<p align="center">
+<p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
   <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
-  <img alt="NuxtJs" src="https://img.shields.io/badge/-Nuxt.js-23272A?style=flat&logo=nuxt.js">
+  <img alt="NextJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Next.js">
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-23272A?style=flat&logo=nuxt.js">
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte.js-23272A?style=flat&logo=svelte">
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-23272A?style=flat&logo=tailwindcss">
@@ -50,17 +51,37 @@ a technology enthusiast and entrepreneur</h2>
   
 </p><br>
 
-<h3 align="center">What am I doing right now ?<br></h3>
+## **Realisations**
 
-<p align="center">
-  I am trying to make my <b>SaaS</b> project (named <a href="https://yogocap.com">Yogocap</a>) become alive. Don't hesitate to take a look at it : 
-  
-  - <a href="https://github.com/newtondotcom/yogocap-landing">here</a> you can find its landing page
-  - <a href="https://github.com/newtondotcom/yogocap-nuxt">here</a> you can find its front-end
-  - <a href="https://github.com/newtondotcom/yogocap-back">here</a> you can find its back-end
+### Projects close to my heart
+<a href="https://github.com/newtondotcom/drone-shop">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=drone-shop&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=drone-shop">
+  </picture>
+</a>
+<a href="https://github.com/newtondotcom/CoffreTonDoc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=CoffreTonDoc&theme=github_dark">
+    <img alt="Vanity-ETH" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=CoffreTonDoc">
+  </picture>
+</a>
 
-  This **SaaS** will automatically subtitle videos for social medias using differents AI models and algorithms. 
-</p><br>
+### My first **SaaS**
+Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This is automatically subtitling videos for social medias using differents AI models and algorithms. 
+
+<a href="https://github.com/newtondotcom/yogocap-nuxt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=yogocap-nuxt&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=yogocap-nuxt">
+  </picture>
+</a>
+<a href="https://github.com/newtondotcom/yogocap-back">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=yogocap-back&theme=github_dark">
+    <img alt="Vanity-ETH" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=yogocap-back">
+  </picture>
+</a>
 
 <!-- 
 <h3 align="center">Projects for 2021<br></h3>
@@ -75,7 +96,8 @@ a technology enthusiast and entrepreneur</h2>
 <img width="60%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newtondotcom&show_icons=true&hide_border=true&line_height=25&title_color=6da860&icon_color=6da860&show_owner=true">
 </p>
 --->
-  
+
+<!-- 
 <details>
 <p align="center">
   <a href="https://github.com/newtondotcom">
@@ -95,3 +117,4 @@ a technology enthusiast and entrepreneur</h2>
     <img src="https://komarev.com/ghpvc/?username=newtondotcom&color=blue&style=flat" />
   </a>
 </p>
+--->
