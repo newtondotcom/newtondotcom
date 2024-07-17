@@ -67,6 +67,20 @@ a technology enthusiast and entrepreneur</h2>
   </picture>
 </a>
 
+## "Public Utility" projects
+<a href="https://github.com/newtondotcom/locapark-konsta">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
+  </picture>
+</a>
+<a href="https://github.com/newtondotcom/velos-toulouse">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
+  </picture>
+</a>
+
 ### My first **SaaS**
 Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This is automatically subtitling videos for social medias using differents AI models and algorithms. 
 
@@ -82,21 +96,6 @@ Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This 
     <img alt="Vanity-ETH" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=yogocap-back">
   </picture>
 </a>
-
-## "Public Utility" projects
-<a href="https://github.com/newtondotcom/locapark-konsta">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta&theme=github_dark">
-    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
-  </picture>
-</a>
-<a href="https://github.com/newtondotcom/velos-toulouse">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse&theme=github_dark">
-    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
-  </picture>
-</a>
-
 
 <!-- 
 <h3 align="center">Projects for 2021<br></h3>
