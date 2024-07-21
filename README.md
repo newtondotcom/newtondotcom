@@ -1,7 +1,10 @@
 # Hey, I'm Robin Augereau 🧃
 
-> aka newton, 
-a technology enthusiast and entrepreneur</h2>
+- 🎓 Computer Science Student at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
+- 📝 I am currently learning Cloud and Big data infrastructures
+- ❤️‍🔥 I am dedicating my time to create open-source projects
+- 🔎 I am looking to learn cybersecurity and system administration
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/robin-augereau/)
 
 ## Languages I know
 
@@ -15,6 +18,7 @@ a technology enthusiast and entrepreneur</h2>
   <img alt="C" src="https://img.shields.io/badge/-C-23272A?style=flat&logo=c">
   <img alt="Latex" src="https://img.shields.io/badge/-Latex-23272A?style=flat&logo=latex">
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-23272A?style=flat&logo=markdown">
+  <img src="https://img.shields.io/badge/-Go-23272A?style=flat&logo=go">
   <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-23272A?style=flat&logo=matlab">
   <img src="https://img.shields.io/badge/-Java-23272A?style=flat&logo=java">
   <img src="https://img.shields.io/badge/-Ada-23272A?style=flat&logo=ada">
@@ -25,9 +29,9 @@ a technology enthusiast and entrepreneur</h2>
 <p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
   <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
-  <img alt="NextJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Next.js">
+  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js -23272A?style=flat&logo=Next.js">
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-23272A?style=flat&logo=nuxt.js">
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte.js-23272A?style=flat&logo=svelte">
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-23272A?style=flat&logo=tailwindcss">
   <img alt="React" src="https://img.shields.io/badge/-React.js-23272A?style=flat&logo=react">
@@ -38,8 +42,9 @@ a technology enthusiast and entrepreneur</h2>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-23272A?style=flat&logo=linux">
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-23272A?style=flat&logo=ubuntu">
   <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-23272A?style=flat&logo=apple">
+  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-23272A?style=flat&logo=proxmox">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-23272A?style=flat&logo=github">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=visual-studio-code">
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-23272A?style=flat&logo=vscode">
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime Text-23272A?style=flat&logo=sublime-text">
   <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-23272A?style=flat&logo=eclipse">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-23272A?style=flat&logo=docker">
