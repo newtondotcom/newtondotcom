@@ -73,16 +73,16 @@
 </a>
 
 ## "Public Utility" projects
-<a href="https://github.com/newtondotcom/locapark-konsta">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta&theme=github_dark">
-    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
-  </picture>
-</a>
 <a href="https://github.com/newtondotcom/velos-toulouse">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse&theme=github_dark">
     <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
+  </picture>
+</a>
+<a href="https://github.com/newtondotcom/locapark-konsta">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
   </picture>
 </a>
 
