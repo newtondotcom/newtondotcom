@@ -79,10 +79,10 @@
     <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
   </picture>
 </a>
-<a href="https://github.com/newtondotcom/locapark-konsta">
+<a href="https://github.com/newtondotcom/datastudio">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta&theme=github_dark">
-    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=locapark-konsta">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=datastudio&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=datastudio">
   </picture>
 </a>
 
