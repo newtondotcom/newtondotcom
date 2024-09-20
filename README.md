@@ -1,7 +1,7 @@
 # Hey, I'm Robin Augereau 🧃
 
-- 🎓 Computer Science Student at [ENSEEIHT](https://www.enseeiht.fr/fr/index.html)
-- 📝 I am currently learning Cloud and Big data infrastructures
+- 🎓 Cybersecurity Computer Science Student at [TLS-SEC](https://tls-sec.github.io/) ([ENSEEIHT](https://www.enseeiht.fr/fr/index.html) & [INSA Toulouse](https://www.insa-toulouse.fr/))
+- 📝 I am currently interested by Cloud and Big data infrastructures
 - ❤️‍🔥 I am dedicating my time to create open-source projects
 - 🔎 I am looking to learn cybersecurity and system administration
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/robin-augereau/)
