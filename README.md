@@ -71,12 +71,10 @@
     <img alt="Vanity-ETH" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=CoffreTonDoc">
   </picture>
 </a>
-
-## "Public Utility" projects
-<a href="https://github.com/newtondotcom/velos-toulouse">
+<a href="https://github.com/newtondotcom/immo-en-bref">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse&theme=github_dark">
-    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=velos-toulouse">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=immo-en-bref&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=immo-en-bref">
   </picture>
 </a>
 <a href="https://github.com/newtondotcom/datastudio">
