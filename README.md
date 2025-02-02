@@ -30,7 +30,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-23272A?style=flat&logo=node.js">
   <img alt="VueJs" src="https://img.shields.io/badge/-Vue.js-23272A?style=flat&logo=Vue.js">
   <img alt="NextJs" src="https://img.shields.io/badge/-Next.js -23272A?style=flat&logo=Next.js">
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt.js-23272A?style=flat&logo=nuxt.js">
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-23272A?style=flat&logo=nuxt">
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-23272A?style=flat&logo=svelte">
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-23272A?style=flat&logo=angular">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-23272A?style=flat&logo=tailwindcss">
