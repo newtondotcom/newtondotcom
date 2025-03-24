@@ -100,6 +100,14 @@ Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This 
   </picture>
 </a>
 
+### Some **ideas**
+<a href="https://github.com/newtondotcom/yogocap-nuxt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=frameit&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=frameit">
+  </picture>
+</a>
+
 <!-- 
 <h3 align="center">Projects for 2021<br></h3>
 
