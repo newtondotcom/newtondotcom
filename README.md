@@ -1,9 +1,9 @@
 # Hey, I'm Robin Augereau 🧃
 
-- 🎓 Cybersecurity Computer Science Student at [TLS-SEC](https://tls-sec.github.io/) ([ENSEEIHT](https://www.enseeiht.fr/fr/index.html) & [INSA Toulouse](https://www.insa-toulouse.fr/))
-- 📝 I am currently interested by Cloud and Big data infrastructures
+- 🎓 Cybersecurity Computer Science Student at [TLS-SEC](https://tls-sec.github.io/) ([ENSEEIHT](https://www.enseeiht.fr/fr/index.html) & [INSA Toulouse](https://www.insa-toulouse.fr/)), interning at [Thalès](https://www.thalesgroup.com/fr/marches/defense-et-securite/activites-services-numeriques)
+- 📝 I am interested by Cloud, Big data and IA infrastructures
 - ❤️‍🔥 I am dedicating my time to create open-source projects
-- 🔎 I am looking to learn cybersecurity and system administration
+- 🔎 I am learning cybersecurity and system administration
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/robin-augereau/)
 
 ## Languages I know
@@ -101,7 +101,7 @@ Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This 
 </a>
 
 ### Some **ideas**
-<a href="https://github.com/newtondotcom/yogocap-nuxt">
+<a href="https://github.com/newtondotcom/frameit">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=frameit&theme=github_dark">
     <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=frameit">
