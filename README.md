@@ -83,6 +83,13 @@
     <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=datastudio">
   </picture>
 </a>
+<a href="https://github.com/newtondotcom/pok7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=pok7&theme=github_dark">
+    <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=newtondotcom&repo=pok7">
+  </picture>
+</a>
+
 
 ### My first **SaaS**
 Here is my SaaS project (named <a href="https://yogocap.com">Yogocap</a>). This is automatically subtitling videos for social medias using differents AI models and algorithms. 
